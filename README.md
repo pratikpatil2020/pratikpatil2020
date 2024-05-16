@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**pratikpatil2020/pratikpatil2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/pratikpatil2020/pratikpatil2020/main/Software%20Developer.jpg" width="100%"
+        align="center">
+</div>
+<br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=pratikpatil2020&color=brightgreen" alt="watching_count" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Age-21-blueviolet" />
+    <img src="https://img.shields.io/badge/Focus-Software%20Development-green" />
+    <img src="https://img.shields.io/badge/Lives-Jalgaon-success" />
+</p>
+<hr>
