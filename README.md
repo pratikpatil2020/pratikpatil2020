@@ -3,9 +3,6 @@
         align="center">
 </div>
 <br>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pratikpatil2020&color=brightgreen" alt="watching_count" />
-</p>
 <hr>
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
@@ -40,7 +37,7 @@
     ➤ I'm quite good at 𝗛𝗧𝗠𝗟 - 𝗖𝗦𝗦 - 𝗝𝗦<br><br>
     ➤ I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br><br>
     ➤ I’m looking for help for learning 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
-    ➤ More ...<br><br>
+    ➤ More Things...<br><br>
 
 <br><br>
 
